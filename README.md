@@ -14,7 +14,7 @@ Simple web-app that supports authentication, registration and other CRUD operati
 - driver logging out
 - display list of all cars connected to current driver
 # Deployed project link
-
+https://nazarii-pertsak-taxi-service.herokuapp.com/
 # Project structure
 Project uses 3-tier architecture:
 1. Data access tier -> handled by DAO;
