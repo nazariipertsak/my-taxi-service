@@ -35,7 +35,7 @@ Project uses 3-tier architecture:
 - MySQL 8.0
 
 # Instructions to run my project
-1. Initialize database
+1. Initialize database <br/>
 Go to [src/main/resources/init_db.sql] and copy content of it and then paste it to your DBMS query. I recommend using mySQL.
 2. Configure connection to your database in [src/main/java/taxi/util/ConnectionUtil.java] by changing url to your database, username and password.
 3. Run in console [mvn clean package] for project to build up.
