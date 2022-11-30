@@ -23,7 +23,7 @@ Project uses 3-tier architecture:
 
 # Technologies
 - Maven
-- Java programming language
+- Java programming language (JDK 1.8)
 - JDBC
 - SOLID principles
 - Dependency injection
