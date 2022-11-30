@@ -18,9 +18,9 @@ https://nazarii-pertsak-taxi-service.herokuapp.com/
 # Project structure
 Project uses 3-tier architecture:
 1. Data access tier -> handled by DAO;
-<img src="taxi_models_diagram.jpeg">
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and JSP pages.
+<img src="taxi_models_diagram.jpeg" width="50%">
 # Technologies
 - Maven
 - Java programming language (JDK 1.8)
