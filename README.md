@@ -34,12 +34,13 @@ Project uses 3-tier architecture:
 
 # Instructions to run my project
 1. Initialize database <br/>
-Go to 
+   Go to
 > [src/main/resources/init_db.sql]
 
 Copy content of it and then paste it to your DBMS query. I am using mySQL. <br/>
-2. Configure connection to your database in 
-> [src/main/java/taxi/util/ConnectionUtil.java] 
+<img src="taxi_models_diagram.jpeg">
+2. Configure connection to your database in
+> [src/main/java/taxi/util/ConnectionUtil.java]
 
 By changing url to your database, username and password. <br/>
 3. Run in console [mvn clean package] for project to build up. <br/>
