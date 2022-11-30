@@ -20,7 +20,6 @@ Project uses 3-tier architecture:
 1. Data access tier -> handled by DAO;
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and JSP pages.
-<img src="taxi_models_diagram.jpeg">
 # Technologies
 - Maven
 - Java programming language (JDK 1.8)
@@ -29,6 +28,7 @@ Project uses 3-tier architecture:
 - JSP and CSS
 - Tomcat 9.0.50
 - MySQL 8.0
+<img src="taxi_models_diagram.jpeg">
 
 # Instructions to run my project
 1. Initialize database <br/>
