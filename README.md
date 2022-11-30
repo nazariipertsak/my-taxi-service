@@ -21,6 +21,7 @@ Project uses 3-tier architecture:
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and JSP pages.
 <img src="taxi_models_diagram.jpeg" width="50%">
+
 # Technologies
 - Maven
 - Java programming language (JDK 1.8)
