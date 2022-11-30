@@ -25,8 +25,6 @@ Project uses 3-tier architecture:
 - Maven
 - Java programming language (JDK 1.8)
 - JDBC
-- SOLID principles
-- Dependency injection
 - Java Servlet
 - JSP and CSS
 - Tomcat 9.0.50
