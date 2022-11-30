@@ -20,7 +20,7 @@ Project uses 3-tier architecture:
 1. Data access tier -> handled by DAO;
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and JSP pages.
-
+<img src="taxi_models_diagram.jpeg">
 # Technologies
 - Maven
 - Java programming language (JDK 1.8)
@@ -36,7 +36,6 @@ Project uses 3-tier architecture:
 > [src/main/resources/init_db.sql]
 
 Copy content of it and then paste it to your DBMS query. I am using mySQL. <br/>
-<img src="taxi_models_diagram.jpeg">
 2. Configure connection to your database in
 > [src/main/java/taxi/util/ConnectionUtil.java]
 
