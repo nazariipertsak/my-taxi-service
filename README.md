@@ -18,6 +18,7 @@ https://nazarii-pertsak-taxi-service.herokuapp.com/
 # Project structure
 Project uses 3-tier architecture:
 1. Data access tier -> handled by DAO;
+<img src="taxi_models_diagram.jpeg">
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and JSP pages.
 # Technologies
@@ -28,8 +29,6 @@ Project uses 3-tier architecture:
 - JSP and CSS
 - Tomcat 9.0.50
 - MySQL 8.0
-<img src="taxi_models_diagram.jpeg">
-
 # Instructions to run my project
 1. Initialize database <br/>
    Go to
